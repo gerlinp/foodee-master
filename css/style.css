@@ -1371,9 +1371,7 @@ blockquote {
 
 .heroSlide1 {
   background-image: url("/images/slide_1.jpg");
-
 }
-
 .heroSlide2 {
   background-image: url("/images/slide_2.jpg");
 }
@@ -1392,4 +1390,3 @@ blockquote {
   font-family: 'Great Vibes', cursive  !important;
 }
 
-/*# sourceMappingURL=style.css.map */
